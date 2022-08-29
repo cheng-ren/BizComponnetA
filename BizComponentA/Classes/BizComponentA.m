@@ -6,7 +6,12 @@
 //
 
 #import "BizComponentA.h"
-
+#import <RCCommon/RCCommon.h>
 @implementation BizComponentA
+
++ (NSString *)version {
+    NSLog(@"RCCommon: %@", [RCCommon version]);
+    return @"0.1.2";
+}
 
 @end

@@ -1,0 +1,6 @@
+framework module BizComponentA {
+  umbrella header "BizComponentA.h"
+
+  export *
+  module * { export * }
+}

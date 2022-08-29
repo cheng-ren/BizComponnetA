@@ -1,9 +1,9 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
-## AFNetworking
+## BizComponentA
 
-Copyright (c) 2011-2020 Alamofire Software Foundation (http://alamofire.org/)
+Copyright (c) 2022 任成 <rencheng11@icloud.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -24,7 +24,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-## BizComponentA
+## RCCommon
 
 Copyright (c) 2022 任成 <rencheng11@icloud.com>
 

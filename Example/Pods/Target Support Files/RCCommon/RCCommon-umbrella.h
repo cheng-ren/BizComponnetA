@@ -10,8 +10,8 @@
 #endif
 #endif
 
-#import "BizComponentA.h"
+#import "RCCommon.h"
 
-FOUNDATION_EXPORT double BizComponentAVersionNumber;
-FOUNDATION_EXPORT const unsigned char BizComponentAVersionString[];
+FOUNDATION_EXPORT double RCCommonVersionNumber;
+FOUNDATION_EXPORT const unsigned char RCCommonVersionString[];
 

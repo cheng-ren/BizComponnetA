@@ -1,37 +1,23 @@
 PODS:
-  - AFNetworking (4.0.1):
-    - AFNetworking/NSURLSession (= 4.0.1)
-    - AFNetworking/Reachability (= 4.0.1)
-    - AFNetworking/Security (= 4.0.1)
-    - AFNetworking/Serialization (= 4.0.1)
-    - AFNetworking/UIKit (= 4.0.1)
-  - AFNetworking/NSURLSession (4.0.1):
-    - AFNetworking/Reachability
-    - AFNetworking/Security
-    - AFNetworking/Serialization
-  - AFNetworking/Reachability (4.0.1)
-  - AFNetworking/Security (4.0.1)
-  - AFNetworking/Serialization (4.0.1)
-  - AFNetworking/UIKit (4.0.1):
-    - AFNetworking/NSURLSession
-  - BizComponentA (0.1.0):
-    - AFNetworking
+  - BizComponentA (0.1.1):
+    - RCCommon (= 0.1.5)
+  - RCCommon (0.1.5)
 
 DEPENDENCIES:
   - BizComponentA (from `../`)
 
 SPEC REPOS:
-  trunk:
-    - AFNetworking
+  https://github.com/cheng-ren/RCSpecs.git:
+    - RCCommon
 
 EXTERNAL SOURCES:
   BizComponentA:
     :path: "../"
 
 SPEC CHECKSUMS:
-  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
-  BizComponentA: 38e98b8b9bb5c4f24c9a3abb9c39dbf126566977
+  BizComponentA: c1db4e2280d4623cbb2bc6f9d89313593b4c77d2
+  RCCommon: 496d9a7b28179b5af75e7d57d52428a3ef1b54a0
 
-PODFILE CHECKSUM: edd288e947d53e9d2f4a05f08bc520cb6a2254d8
+PODFILE CHECKSUM: 244f086b73b904cf6f633be6928fab12c3ae4639
 
 COCOAPODS: 1.11.3

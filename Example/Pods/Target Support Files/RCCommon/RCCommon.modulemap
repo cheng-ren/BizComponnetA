@@ -1,0 +1,6 @@
+framework module RCCommon {
+  umbrella header "RCCommon-umbrella.h"
+
+  export *
+  module * { export * }
+}
