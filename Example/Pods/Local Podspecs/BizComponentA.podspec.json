@@ -1,0 +1,27 @@
+{
+  "name": "BizComponentA",
+  "version": "0.1.0",
+  "summary": "A short description of BizComponentA.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/任成/BizComponentA",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "任成": "rencheng11@icloud.com"
+  },
+  "source": {
+    "git": "https://github.com/任成/BizComponentA.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "BizComponentA/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}
